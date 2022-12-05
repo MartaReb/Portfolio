@@ -33,7 +33,7 @@ In my portfolio I would like to showcase my abilities and credentials, things I 
 
 ## Courses:
   - ["Szkoła Testerów"](https://soflab.pl/) - Soflab Technology
-  - ["Dare IT Portfolio Challenge: Zostań Testerem Manualnym"] (https://www.dareit.io/) - Dare IT
+  - ["Dare IT Portfolio Challenge: Zostań Testerem Manualnym"](https://www.dareit.io/) - Dare IT
   - ["Praktyczny kurs testowania oprogramowania"](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) - Udemy
   - ["Wprowadzenie do Git i GitHub"](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/) - Udemy
   - ["Jira Fundamentals"](https://university.atlassian.com/student/path/815443-jira-fundamentals?sid_i=0) - Atlassian University
@@ -67,13 +67,19 @@ In my portfolio I would like to showcase my abilities and credentials, things I 
   
 ## My testing documentation examples:
   - Test cases:
+  
   👉 [Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie User Story]
+  
   👉 [Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie “własnych doświadczeń"]
+  
   👉 [Przypadki testowe dla polskiej wersji aplikacji Pick Eat Up napisane na podstawie “własnych doświadczeń"]
   
   - Bug reports:
+  
   👉 [Zgłoszania błędów znalezionych w polskiej wersji aplikacji Scouts Panel]
+  
   👉 [Zgłoszenia błędów dla aplikacji mobilnej Focusly](https://docs.google.com/spreadsheets/d/1nip9iNvL0U9zRAD8Nrj2_VwPruIk00vqF09xSwV-fKI/edit#gid=0)
 
   - Test report:
+  
   👉 [Raport z testów aplikacji Scouts Panel]
