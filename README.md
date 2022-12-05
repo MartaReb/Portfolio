@@ -76,10 +76,10 @@ In my portfolio I would like to showcase my abilities and credentials, things I 
   
   - Bug reports:
   
-  👉 [Zgłoszania błędów znalezionych w polskiej wersji aplikacji Scouts Panel]
+  👉 [Bug reports found in the Polish version of the Panel Skautingowy application reported in Jira]
   
-  👉 [Zgłoszenia błędów dla aplikacji mobilnej Focusly](https://docs.google.com/spreadsheets/d/1nip9iNvL0U9zRAD8Nrj2_VwPruIk00vqF09xSwV-fKI/edit#gid=0)
+  👉 [Bug reports found in the Focusly mobile app reported in Excel](https://docs.google.com/spreadsheets/d/11KW9XAAVmZzSV3kJgXaHTnYZcknsz-AVZCmFl74_n5I/edit#gid=0)
 
   - Test report:
   
-  👉 [Raport z testów aplikacji Scouts Panel]
+  👉 [Test report from testing the Panel Skautingowy application](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit)
