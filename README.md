@@ -2,9 +2,8 @@
 
 ## About me
 
-📝 Hi, my name is Marta Rębecka.🙂 I am in the process of changing my career to become a software tester. I love learning new things, setting goals and achieving them. 
-📝 I am a person who constantly try to develop my testing knowlege and technical skills. In the future I would like to further my career in the field of automation testing.
-📝 In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.
+📝 Hi, my name is Marta Rębecka.🙂 I am in the process of changing my career to become a software tester. I love learning new things, setting goals and achieving them. I am a person who constantly try to develop my testing knowlege and technical skills. In the future I would like to further my career in the field of automation testing.
+In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49365894/205621838-e29e13e1-e031-4ed9-80ec-b67662cc7c2d.jpg">
@@ -34,6 +33,7 @@
 
 ## Courses:
   - ["Szkoła Testerów"](https://soflab.pl/) - Soflab Technology
+  - ["Dare IT Portfolio Challenge: Zostań Testerem Manualnym"] (https://www.dareit.io/) - Dare IT
   - ["Praktyczny kurs testowania oprogramowania"](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) - Udemy
   - ["Wprowadzenie do Git i GitHub"](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/) - Udemy
   - ["Jira Fundamentals"](https://university.atlassian.com/student/path/815443-jira-fundamentals?sid_i=0) - Atlassian University
@@ -41,7 +41,7 @@
   - ["Confluence Fundamentals"](https://enable.atlassian.com/student/path/861302-confluence-fundamentals) - Atlassian University
   - ["Postman Student Expert Program"](https://www.postman.com/company/student-program/) - postman.com
   - ["Postman: The Complete Guide - REST API Testing"](https://www.udemy.com/course/postman-the-complete-guide/) - Udemy (pending)
-  - ["Kurs Python 3 od podstaw"](https://www.udemy.com/course/kurs-python-od-podstaw-dla-poczatkujacych-od-zera-do-mastera/) -Udemy (pending)
+  - ["Python Essentials 1"](https://pythoninstitute.org/) - Python Institute (pending)
   
 ## Books recommended:
   - "Certyfikowany tester ISTQB" - Adam Roman, Lucjan Stapp
@@ -66,3 +66,14 @@
   - [Postman](https://www.youtube.com/c/postman)
   
 ## My testing documentation examples:
+  - Test cases:
+  👉 [Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie User Story]
+  👉 [Przypadki testowe dla polskiej wersji aplikacji Scouts Panel napisane na podstawie “własnych doświadczeń"]
+  👉 [Przypadki testowe dla polskiej wersji aplikacji Pick Eat Up napisane na podstawie “własnych doświadczeń"]
+  
+  - Bug reports:
+  👉 [Zgłoszania błędów znalezionych w polskiej wersji aplikacji Scouts Panel]
+  👉 [Zgłoszenia błędów dla aplikacji mobilnej Focusly](https://docs.google.com/spreadsheets/d/1nip9iNvL0U9zRAD8Nrj2_VwPruIk00vqF09xSwV-fKI/edit#gid=0)
+
+  - Test report:
+  👉 [Raport z testów aplikacji Scouts Panel]
