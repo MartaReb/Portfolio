@@ -76,7 +76,7 @@ In my portfolio I would like to showcase my abilities and credentials, things I 
   
   - **Bug reports:**
   
-  👉 [Bug reports found in the Polish version of the Panel Skautingowy application reported in Jira](https://docs.google.com/document/d/1qqDj89mzUqHW5eJKUyrQott_4B63Q6G6WX6K-LERA1g/edit?usp=sharing)
+  👉 [Bug reports found in the Polish version of the Panel Skautingowy application reported in Jira](https://drive.google.com/drive/folders/1XESKm2Pbl84ql-TbJOQkI4H5nMIlFuSd)
   
   👉 [Bug reports found in the Focusly mobile app reported in Excel](https://docs.google.com/spreadsheets/d/11KW9XAAVmZzSV3kJgXaHTnYZcknsz-AVZCmFl74_n5I/edit#gid=0)
 
