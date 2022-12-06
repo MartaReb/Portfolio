@@ -2,10 +2,9 @@
 
 ## About me
 
-📝 Hi, my name is Marta Rębecka  🙂 I am in the process of changing my career to become a software tester. I love learning new things, setting goals and achieving them. I am a person who constantly try to develop my testing knowlege and technical skills. In the future I would like to further my career in the field of automation testing.
-<p>
-In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.
-</p>
+📝 Hi, my name is Marta Rębecka  🙂 I am in the process of changing my career to become a software tester. 
+<p>I love learning new things, setting goals and achieving them. I am a person who constantly try to develop my testing knowlege and technical skills. In the future I would like to further my career in the field of automation testing.>/p>
+<p>In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49365894/205621838-e29e13e1-e031-4ed9-80ec-b67662cc7c2d.jpg">
@@ -82,4 +81,4 @@ In my portfolio I would like to showcase my abilities and credentials, things I 
 
   - **Test report:**
   
-  👉 [Test report from testing the Panel Skautingowy application](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit)
+  👉 [Test report from testing the Panel Skautingowy web application](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit)
