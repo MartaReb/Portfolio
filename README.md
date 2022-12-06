@@ -30,7 +30,7 @@
   - Reporting bugs
   - Testing REST API
   - SQL
-  - HTML, CSS
+  - HTML & CSS
   - Scrum
 
 ## Courses:
@@ -61,7 +61,7 @@
   - http://cherry-it.pl/
   - https://www.wyszkolewas.com.pl/
 
-## Webinars recommended:
+## Channels recommended:
   - [TestITka](https://www.youtube.com/c/TestITka)
   - [ITea Morning](https://www.youtube.com/c/ITeaMorning)
   - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/featured)
