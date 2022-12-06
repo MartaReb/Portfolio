@@ -15,7 +15,7 @@
 
 ## Tools:
   - [Chrome DevTools](https://developer.chrome.com/) - a set of web developer tools built directly into the Google Chrome browser.
-  - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/) - an issue tracking and project management tool for developers
+  - [Jira](https://www.atlassian.com/software/jira0), [Trello](https://trello.com/), [Azzure DevOps](https://azure.microsoft.com/pl-pl/products/devops/) - issue tracking and project management tools for developers
   - [Confluence](https://www.atlassian.com/pl/software/confluence) - a tool to create, store, and share information
   - [TestLink](https://testlink.org/) - an open source test management tool
   - [Git, GitHub](https://github.com/) - an open source version control system
