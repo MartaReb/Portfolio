@@ -21,6 +21,7 @@
   - [Git, GitHub](https://github.com/) - an open source version control system
   - [Postman](https://www.postman.com/) - a testing tool for REST API
   - [Visual Studio Code](https://code.visualstudio.com/) - a code editor
+  - [MySQL Workbench] (https://www.mysql.com/products/workbench/) - a tool to data modeling and SQL development
   - [Slack](https://slack.com/), [Discord](https://discord.com/) - a set of tools and services for team collaboration
   
   ## Tech skills:
