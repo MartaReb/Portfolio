@@ -2,8 +2,10 @@
 
 ## About me
 
-📝 Hi, my name is Marta Rębecka.🙂 I am in the process of changing my career to become a software tester. I love learning new things, setting goals and achieving them. I am a person who constantly try to develop my testing knowlege and technical skills. In the future I would like to further my career in the field of automation testing.
+📝 Hi, my name is Marta Rębecka  🙂 I am in the process of changing my career to become a software tester. I love learning new things, setting goals and achieving them. I am a person who constantly try to develop my testing knowlege and technical skills. In the future I would like to further my career in the field of automation testing.
+<p>
 In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49365894/205621838-e29e13e1-e031-4ed9-80ec-b67662cc7c2d.jpg">
@@ -68,15 +70,13 @@ In my portfolio I would like to showcase my abilities and credentials, things I 
 ## My testing documentation examples:
   - **Test cases:**
   
-  👉 [Test cases for the Polish version of the Scouts Panel application written on the basis of User Story]
+  👉 [Tests cases based on User Stories for Polish version of the Panel Skautingowy web application write in Excel](https://docs.google.com/spreadsheets/d/1kQpe2bKegMlHgqcILOORV9crnnq4-2NE26g2fCcijXo/edit#gid=0)
   
-  👉 [Test cases for the Polish version of the Scouts Panel application written on the basis of "own experience"]
-  
-  👉 [Test cases for the Polish version of the Pick Eat Up mobile application written on the basis of "own experience"]
+  👉 [Test cases based on "own experience" for the Polish version of the Pick Eat Up mobile application write in Azure DevOps](https://docs.google.com/spreadsheets/d/1t5N5Hsym98lfeW9AT4NE5X66dmUQnUQZnWTCA7Ask_Q/edit?usp=sharing)
   
   - **Bug reports:**
   
-  👉 [Bug reports found in the Polish version of the Panel Skautingowy application reported in Jira](https://docs.google.com/document/d/1qqDj89mzUqHW5eJKUyrQott_4B63Q6G6WX6K-LERA1g/edit)
+  👉 [Bug reports found in the Polish version of the Panel Skautingowy web application reported in Jira](https://docs.google.com/document/d/1qqDj89mzUqHW5eJKUyrQott_4B63Q6G6WX6K-LERA1g/edit)
   
   👉 [Bug reports found in the Focusly mobile application reported in Excel](https://docs.google.com/spreadsheets/d/11KW9XAAVmZzSV3kJgXaHTnYZcknsz-AVZCmFl74_n5I/edit#gid=0)
 
