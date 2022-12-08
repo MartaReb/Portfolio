@@ -2,18 +2,11 @@
 
 ## About me
 
-📝 Hi, my name is Marta Rębecka  🙂 I am in the process of changing my career to become a software tester. 
+<p>Hi, my name is Marta Rębecka  🙂 I am in the process of changing my career to become a software tester.</p>
 <p>I love learning new things, setting goals and achieving them. I am a person who constantly try to develop my testing knowlege and technical skills. In the future I would like to further my career in the field of automation testing.</p>
 <p>In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.</p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/49365894/205621838-e29e13e1-e031-4ed9-80ec-b67662cc7c2d.jpg">
-</p>
-<p align="right">
- source: https://pixabay.com/
-<p>
-
-## Tools:
+## Tools
   - [Chrome DevTools](https://developer.chrome.com/) - a set of web developer tools built directly into the Google Chrome browser.
   - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/), [Azzure DevOps](https://azure.microsoft.com/pl-pl/products/devops/) - issue tracking and project management tools for developers
   - [Confluence](https://www.atlassian.com/pl/software/confluence) - a tool to create, store, and share information
@@ -24,7 +17,7 @@
   - [MySQL Workbench](https://www.mysql.com/products/workbench/) - a tool to data modeling and SQL development
   - [Slack](https://slack.com/), [Discord](https://discord.com/) - a set of tools and services for team collaboration
   
-  ## Tech skills:
+  ## Tech skills
   - Manual software testing
   - Creating test cases, tests scenarios, test plans, test reports
   - Reporting bugs
@@ -33,7 +26,7 @@
   - HTML & CSS
   - Scrum
 
-## Courses:
+## Courses
   - ["Szkoła Testerów"](https://soflab.pl/) - Soflab Technology
   - ["Dare IT Portfolio Challenge: Zostań Testerem Manualnym"](https://www.dareit.io/) - Dare IT
   - ["Praktyczny kurs testowania oprogramowania"](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) - Udemy
@@ -45,23 +38,23 @@
   - ["Postman: The Complete Guide - REST API Testing"](https://www.udemy.com/course/postman-the-complete-guide/) - Udemy (pending)
   - ["Python Essentials 1"](https://pythoninstitute.org/) - Python Institute (pending)
   
-## Books recommended:
+## Books recommended
   - "Certyfikowany tester ISTQB" - Adam Roman, Lucjan Stapp
   - "Zawód tester. Od decyzji do zdobycia doświadczenia" - Radosław Smilgin
   - "Pasja testowania" - Krzysztof Jadczyk
   - "Podróż przez świat testowania" - Karolina Pawłowska, Natalia Pawlak
   
-## Groups on Facebook:
+## Groups on Facebook
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
   - Girls Who Tests
 
-## Blogs read:
+## Blogs read
   - https://testerzy.pl/
   - http://cherry-it.pl/
   - https://www.wyszkolewas.com.pl/
 
-## Channels recommended:
+## Channels recommended
   - [TestITka](https://www.youtube.com/c/TestITka)
   - [ITea Morning](https://www.youtube.com/c/ITeaMorning)
   - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/featured)
