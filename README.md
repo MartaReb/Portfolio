@@ -35,7 +35,7 @@
   - ["Beginner's Guide to Agile in Jira"](https://university.atlassian.com/student/page/1117976-the-beginner-s-guide-to-agile-in-jira-course-description?sid_i=8) - Atlassian University
   - ["Confluence Fundamentals"](https://enable.atlassian.com/student/path/861302-confluence-fundamentals) - Atlassian University
   - ["Postman Student Expert Program"](https://www.postman.com/company/student-program/) - postman.com
-  - ["Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD"] (https://www.udemy.com/course/od-zera-do-front-end-developera-cz1/0 - Udemy
+  - ["Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD"](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1/) - Udemy
   - ["Postman: The Complete Guide - REST API Testing"](https://www.udemy.com/course/postman-the-complete-guide/) - Udemy (pending)
   
 ## Books recommended
