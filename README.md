@@ -6,6 +6,15 @@
 <p>I love learning new things, setting goals and achieving them. I am a person who constantly try to develop my testing knowlege and technical skills. In the future I would like to further my career in the field of automation testing.</p>
 <p>In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.</p>
 
+  ## Technical skills in basics:
+  - Manual software testing
+  - Creating test cases, tests scenarios, test plans, test reports
+  - Reporting bugs
+  - Testing REST API
+  - SQL
+  - HTML & CSS
+  - Scrum
+
 ## Knowledge of the basics of tools:
   - [Chrome DevTools](https://developer.chrome.com/) - a set of web developer tools built directly into the Google Chrome browser.
   - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/), [Azzure DevOps](https://azure.microsoft.com/pl-pl/products/devops/) - issue tracking and project management tools for developers
@@ -17,15 +26,6 @@
   - [MySQL Workbench](https://www.mysql.com/products/workbench/) - a tool to data modeling and SQL development
   - [Slack](https://slack.com/), [Discord](https://discord.com/) - a set of tools and services for team collaboration
   
-  ## Technical skills in basics:
-  - Manual software testing
-  - Creating test cases, tests scenarios, test plans, test reports
-  - Reporting bugs
-  - Testing REST API
-  - SQL
-  - HTML & CSS
-  - Scrum
-
 ## Finished courses:
   - ["Dare IT Portfolio Challenge: Zostań Testerem Manualnym"](https://www.dareit.io/) - Dare IT
   - ["Praktyczny kurs testowania oprogramowania"](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) - Udemy
