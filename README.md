@@ -15,7 +15,7 @@
   - HTML & CSS
   - Scrum
 
-## Knowledge of the basics of tools:
+## Basic knowledge of tools:
   - [Chrome DevTools](https://developer.chrome.com/) - a set of web developer tools built directly into the Google Chrome browser.
   - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/), [Azzure DevOps](https://azure.microsoft.com/pl-pl/products/devops/) - issue tracking and project management tools for developers
   - [Confluence](https://www.atlassian.com/pl/software/confluence) - a tool to create, store, and share information
