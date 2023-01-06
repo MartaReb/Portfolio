@@ -6,7 +6,7 @@
 <p>I love learning new things, setting goals and achieving them. I am a person who constantly try to develop my testing knowlege and technical skills. In the future I would like to further my career in the field of automation testing.</p>
 <p>In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.</p>
 
-## Tools
+## Knowledge of the basics of tools:
   - [Chrome DevTools](https://developer.chrome.com/) - a set of web developer tools built directly into the Google Chrome browser.
   - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/), [Azzure DevOps](https://azure.microsoft.com/pl-pl/products/devops/) - issue tracking and project management tools for developers
   - [Confluence](https://www.atlassian.com/pl/software/confluence) - a tool to create, store, and share information
@@ -17,7 +17,7 @@
   - [MySQL Workbench](https://www.mysql.com/products/workbench/) - a tool to data modeling and SQL development
   - [Slack](https://slack.com/), [Discord](https://discord.com/) - a set of tools and services for team collaboration
   
-  ## Technical skills
+  ## Technical skills in basics:
   - Manual software testing
   - Creating test cases, tests scenarios, test plans, test reports
   - Reporting bugs
@@ -26,8 +26,7 @@
   - HTML & CSS
   - Scrum
 
-## Courses
-  - ["Szkoła Testerów"](https://soflab.pl/) - Soflab Technology
+## Finished courses:
   - ["Dare IT Portfolio Challenge: Zostań Testerem Manualnym"](https://www.dareit.io/) - Dare IT
   - ["Praktyczny kurs testowania oprogramowania"](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) - Udemy
   - ["Wprowadzenie do Git i GitHub"](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/) - Udemy
@@ -36,25 +35,29 @@
   - ["Confluence Fundamentals"](https://enable.atlassian.com/student/path/861302-confluence-fundamentals) - Atlassian University
   - ["Postman Student Expert Program"](https://www.postman.com/company/student-program/) - postman.com
   - ["Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD"](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1/) - Udemy
-  - ["Postman: The Complete Guide - REST API Testing"](https://www.udemy.com/course/postman-the-complete-guide/) - Udemy (pending)
   
-## Books recommended
+  ## Courses in progress:
+  - ["Postman: The Complete Guide - REST API Testing"](https://www.udemy.com/course/postman-the-complete-guide/) - Udemy
+  - ["JavaScript - Jedyny Kurs, Którego Potrzebujesz"](https://www.udemy.com/course/javascript-jedyny-kurs-ktorego-potrzebujesz/) - Udemy
+
+  
+## Books recommended:
   - "Certyfikowany tester ISTQB" - Adam Roman, Lucjan Stapp
   - "Zawód tester. Od decyzji do zdobycia doświadczenia" - Radosław Smilgin
   - "Pasja testowania" - Krzysztof Jadczyk
   - "Podróż przez świat testowania" - Karolina Pawłowska, Natalia Pawlak
   
-## Groups on Facebook
+## Groups on Facebook:
   - Tester oprogramowania - wsparcie na starcie
   - Testowanie oprogramowania
   - Girls Who Tests
 
-## Blogs read
+## Blogs read:
   - https://testerzy.pl/
   - http://cherry-it.pl/
   - https://www.wyszkolewas.com.pl/
 
-## Channels recommended
+## Channels recommended:
   - [TestITka](https://www.youtube.com/c/TestITka)
   - [ITea Morning](https://www.youtube.com/c/ITeaMorning)
   - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/featured)
