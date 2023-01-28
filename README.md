@@ -48,9 +48,9 @@
   - "Podróż przez świat testowania" - Karolina Pawłowska, Natalia Pawlak
   
 ## Groups on Facebook:
-  - Tester oprogramowania - wsparcie na starcie
-  - Testowanie oprogramowania
-  - Girls Who Tests
+  - "Tester oprogramowania - wsparcie na starcie"
+  - "Testowanie oprogramowania"
+  - "Girls Who Tests"
 
 ## Blogs read:
   - https://testerzy.pl/
@@ -79,3 +79,7 @@
   - **Test report:**
   
   📝 [Test report from testing the Panel Skautingowy web application](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit)
+  
+  
+  ## SQL learning:
+  -  📝 [My solution for exercise](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0) [fromSQLZOO site](https://sqlzoo.net/wiki/SQL_Tutorial)
