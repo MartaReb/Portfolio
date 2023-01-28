@@ -63,20 +63,20 @@
   - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/featured)
   - [Postman](https://www.youtube.com/c/postman)
   
-## My testing documentation examples:
-  - **Test cases:**
+## My testing documentation:
+  - **Test cases examples:**
   
   📝 [Tests cases based on User Stories for Polish version of the Panel Skautingowy web application write in Excel](https://docs.google.com/spreadsheets/d/1kQpe2bKegMlHgqcILOORV9crnnq4-2NE26g2fCcijXo/edit#gid=0)
   
   📝 [Test cases based on "own experience" for the Polish version of the Pick Eat Up mobile application write in Azure DevOps](https://docs.google.com/spreadsheets/d/1t5N5Hsym98lfeW9AT4NE5X66dmUQnUQZnWTCA7Ask_Q/edit?usp=sharing)
   
-  - **Bug reports:**
+  - **Bug reports examples:**
   
   📝 [Bug reports found in the Polish version of the Panel Skautingowy web application reported in Jira](https://docs.google.com/document/d/1qqDj89mzUqHW5eJKUyrQott_4B63Q6G6WX6K-LERA1g/edit)
   
   📝 [Bug reports found in the Focusly mobile application reported in Excel](https://docs.google.com/spreadsheets/d/11KW9XAAVmZzSV3kJgXaHTnYZcknsz-AVZCmFl74_n5I/edit#gid=0)
 
-  - **Test report:**
+  - **Test report example:**
   
   📝 [Test report from testing the Panel Skautingowy web application](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit)
   
