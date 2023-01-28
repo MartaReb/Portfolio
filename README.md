@@ -83,4 +83,4 @@
   
   
   ## SQL learning:
-  -  📝 [My solutions for exercises](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0) from [SQLZOO site](https://sqlzoo.net/wiki/SQL_Tutorial)
+  📝 [My solutions for exercises](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0) from [SQLZOO site](https://sqlzoo.net/wiki/SQL_Tutorial)
