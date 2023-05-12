@@ -12,10 +12,7 @@
 - [Tools](#basic-knowledge-of-tools)
 - [Finished courses](#finished-courses)
 - [Courses in progress](#courses-in-progress)
-- [Books recommended](#books-recommended)
-- [Groups on Facebook](#groups-on-facebook)
-- [Blogs read](#blogs-read)
-- [Channels recommended](#channels-recommended)
+- [My testing software knowledge recommendations](#my-testing-software-knowledge-recommendations)
 - [Manual Testing](#manual-Testing)
 - [Automated Testing](#automated-testing)
 - [SQL](#SQL)
@@ -62,24 +59,25 @@
   - ["Postman: The Complete Guide - REST API Testing"](https://www.udemy.com/course/postman-the-complete-guide/) - Udemy
   - ["JavaScript - Jedyny Kurs, Którego Potrzebujesz"](https://www.udemy.com/course/javascript-jedyny-kurs-ktorego-potrzebujesz/) - Udemy
 
-  
-## Books recommended:
+
+## My testing software knowledge recommendations:
+### Books:
   - "Certyfikowany tester ISTQB" - Adam Roman, Lucjan Stapp
   - "Zawód tester. Od decyzji do zdobycia doświadczenia" - Radosław Smilgin
   - "Pasja testowania" - Krzysztof Jadczyk
   - "Podróż przez świat testowania" - Karolina Pawłowska, Natalia Pawlak
   
-## Groups on Facebook:
+### Groups on Facebook:
   - "Tester oprogramowania - wsparcie na starcie"
   - "Testowanie oprogramowania"
   - "Girls Who Tests"
 
-## Blogs read:
+### Blogs:
   - https://testerzy.pl/
   - http://cherry-it.pl/
   - https://www.wyszkolewas.com.pl/
 
-## Channels recommended:
+## You Tube channels:
   - [TestITka](https://www.youtube.com/c/TestITka)
   - [ITea Morning](https://www.youtube.com/c/ITeaMorning)
   - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/featured)
