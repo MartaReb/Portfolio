@@ -7,8 +7,18 @@
 <p>In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.</p>
 
 ## Table of contents:
-[Technical skills in basics](#technical-skills-in-basics)
-[Soft skills](#soft-skills)
+- [Technical skills](#technical-skills-in-basics)
+- [Soft skills](#soft-skills)
+- [Tools](#basic-knowledge-of-tools)
+- [Finished courses](#finished-courses)
+- [Courses in progress](#courses-in-progress)
+- [Books recommended](#books-recommended)
+- [Groups on Facebook](#groups-on-facebook)
+- [Blogs read](#blogs-read)
+- [Channels recommended](#channels-recommended)
+- [Manual Testing](#manual-Testing)
+- [Automated Testing](#automated-testing)
+- [SQL](#SQL)
 
  ## Technical skills in basics:
   - Manual software testing
@@ -48,7 +58,7 @@
   - ["Postman Student Expert Program"](https://www.postman.com/company/student-program/) - postman.com
   - ["Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD"](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1/) - Udemy
   
-  ## Courses in progress:
+## Courses in progress:
   - ["Postman: The Complete Guide - REST API Testing"](https://www.udemy.com/course/postman-the-complete-guide/) - Udemy
   - ["JavaScript - Jedyny Kurs, Którego Potrzebujesz"](https://www.udemy.com/course/javascript-jedyny-kurs-ktorego-potrzebujesz/) - Udemy
 
