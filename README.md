@@ -84,22 +84,22 @@
   - [Postman](https://www.youtube.com/c/postman)
   
 ## Manual Testing
-### My testing documentation:
-  - **Test cases examples:**
+### My testing documentation examples:
+  - **Test cases:**
   
   📝 [Tests cases](https://docs.google.com/spreadsheets/d/1kQpe2bKegMlHgqcILOORV9crnnq4-2NE26g2fCcijXo/edit#gid=0) based on User Stories for Polish version of the Panel Skautingowy web application write in Excel
   
   📝 [Test cases](https://docs.google.com/spreadsheets/d/1t5N5Hsym98lfeW9AT4NE5X66dmUQnUQZnWTCA7Ask_Q/edit?usp=sharing) based on "own experience" for the Polish version of the Pick Eat Up mobile application write in Azure DevOps
   
-  - **Bug reports examples:**
+  - **Bug reports:**
   
   📝 [Bug reports](https://docs.google.com/document/d/1qqDj89mzUqHW5eJKUyrQott_4B63Q6G6WX6K-LERA1g/edit) found in the Polish version of the Panel Skautingowy web application reported in Jira
   
   📝 [Bug reports](https://docs.google.com/spreadsheets/d/11KW9XAAVmZzSV3kJgXaHTnYZcknsz-AVZCmFl74_n5I/edit#gid=0) found in the Focusly mobile application reported in Excel
 
-  - **Test report example:**
+  - **Test report:**
   
-  📝 [Test report](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit) from testing the Panel Skautingowy web application]
+  📝 [Test report](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit) from testing the Panel Skautingowy web application
   
   ## Automated Testing:
   
