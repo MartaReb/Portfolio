@@ -6,6 +6,10 @@
 <p>I love learning new things, setting goals and achieving them. I am a person who constantly try to develop my testing knowlege and technical skills. In the future I would like to further my career in the field of automation testing.</p>
 <p>In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.</p>
 
+## Table of contents:
+[Technical skills in basics](#technical-skills-in-basics)
+[Soft skills](#soft-skills)
+
  ## Technical skills in basics:
   - Manual software testing
   - Creating test cases, tests scenarios, test plans, test reports
