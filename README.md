@@ -68,8 +68,8 @@
   - "Podróż przez świat testowania" - Karolina Pawłowska, Natalia Pawlak
   
 ### Groups on Facebook:
-  - "Tester oprogramowania - wsparcie na starcie"
   - "Testowanie oprogramowania"
+  - "Tester oprogramowania - wsparcie na starcie"
   - "Girls Who Tests"
 
 ### Blogs:
@@ -77,10 +77,10 @@
   - http://cherry-it.pl/
   - https://www.wyszkolewas.com.pl/
 
-## You Tube channels:
+### You Tube channels:
   - [TestITka](https://www.youtube.com/c/TestITka)
   - [ITea Morning](https://www.youtube.com/c/ITeaMorning)
-  - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/featured)
+  - [Testowanie Oprogramowania Podcast](https://www.youtube.com/@TestowaniePodcast)
   - [Postman](https://www.youtube.com/c/postman)
   
 ## Manual Testing
