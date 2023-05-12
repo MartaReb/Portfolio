@@ -6,7 +6,7 @@
 <p>I love learning new things, setting goals and achieving them. I am a person who constantly try to develop my testing knowlege and technical skills. In the future I would like to further my career in the field of automation testing.</p>
 <p>In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.</p>
 
-  ## Technical skills in basics:
+ ## Technical skills in basics:
   - Manual software testing
   - Creating test cases, tests scenarios, test plans, test reports
   - Reporting bugs
@@ -14,6 +14,14 @@
   - SQL
   - HTML & CSS
   - Scrum
+
+## Soft skills:
+  - Attention to detail
+  - Patience and perceptiveness
+  - Strong communication skills
+  - Willingness to continuously learn
+  - Ability to work effectively both independently and as part of a team
+  - Analytical approach to problem-solving
 
 ## Basic knowledge of tools:
   - [Chrome DevTools](https://developer.chrome.com/) - a set of web developer tools built directly into the Google Chrome browser.
@@ -63,24 +71,25 @@
   - [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp/featured)
   - [Postman](https://www.youtube.com/c/postman)
   
-## My testing documentation:
+## Manual Testing
+### My testing documentation:
   - **Test cases examples:**
   
-  📝 [Tests cases based on User Stories for Polish version of the Panel Skautingowy web application write in Excel](https://docs.google.com/spreadsheets/d/1kQpe2bKegMlHgqcILOORV9crnnq4-2NE26g2fCcijXo/edit#gid=0)
+  📝 [Tests cases](https://docs.google.com/spreadsheets/d/1kQpe2bKegMlHgqcILOORV9crnnq4-2NE26g2fCcijXo/edit#gid=0) based on User Stories for Polish version of the Panel Skautingowy web application write in Excel
   
-  📝 [Test cases based on "own experience" for the Polish version of the Pick Eat Up mobile application write in Azure DevOps](https://docs.google.com/spreadsheets/d/1t5N5Hsym98lfeW9AT4NE5X66dmUQnUQZnWTCA7Ask_Q/edit?usp=sharing)
+  📝 [Test cases](https://docs.google.com/spreadsheets/d/1t5N5Hsym98lfeW9AT4NE5X66dmUQnUQZnWTCA7Ask_Q/edit?usp=sharing) based on "own experience" for the Polish version of the Pick Eat Up mobile application write in Azure DevOps
   
   - **Bug reports examples:**
   
-  📝 [Bug reports found in the Polish version of the Panel Skautingowy web application reported in Jira](https://docs.google.com/document/d/1qqDj89mzUqHW5eJKUyrQott_4B63Q6G6WX6K-LERA1g/edit)
+  📝 [Bug reports](https://docs.google.com/document/d/1qqDj89mzUqHW5eJKUyrQott_4B63Q6G6WX6K-LERA1g/edit) found in the Polish version of the Panel Skautingowy web application reported in Jira
   
-  📝 [Bug reports found in the Focusly mobile application reported in Excel](https://docs.google.com/spreadsheets/d/11KW9XAAVmZzSV3kJgXaHTnYZcknsz-AVZCmFl74_n5I/edit#gid=0)
+  📝 [Bug reports](https://docs.google.com/spreadsheets/d/11KW9XAAVmZzSV3kJgXaHTnYZcknsz-AVZCmFl74_n5I/edit#gid=0) found in the Focusly mobile application reported in Excel
 
   - **Test report example:**
   
-  📝 [Test report from testing the Panel Skautingowy web application](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit)
+  📝 [Test report](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit) from testing the Panel Skautingowy web application]
   
+  ## Automated Testing:
   
-  
-  ## SQL learning:
+  ## SQL:
   📝 [My solutions for exercises](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0) from [SQLZOO site](https://sqlzoo.net/wiki/SQL_Tutorial)
