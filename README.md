@@ -91,6 +91,7 @@ As part of the "Dare IT Portfolio Challenge: Zostań Testerem Manualnym" course,
 - Scouting Panel - an application for football scouts to view player metrics, skills, and positions,
 - Pick It Up - an application which allows users to order surprise-packages of surplus food from local venues in the area,
 - Focusly - an application for meditation, development and stress reduction.
+
 The documentation that was created as part of the testing process is below.
 
 ### My testing documentation examples:
@@ -120,4 +121,6 @@ Automated tests were created for the Scouts Panel application as part of the "Da
 📕 [Robot Framework](https://github.com/MartaReb/panelscout_robotframework)
   
   ## SQL:
+  As part of my learning process, I have taken on the challenge of completing all of the tasks on the SQLZOO website. You can track my  current progress here:
+  
   📝 [My solutions for exercises](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0) from [SQLZOO site](https://sqlzoo.net/wiki/SQL_Tutorial)
