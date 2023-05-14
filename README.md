@@ -13,8 +13,8 @@
 - [Finished courses](#finished-courses)
 - [Courses in progress](#courses-in-progress)
 - [My testing software knowledge recommendations](#my-testing-software-knowledge-recommendations)
-- [Manual Testing projects](#manual-Testing)
-- [Automated Testing projects](#automated-testing)
+- [Manual Testing projects](#manual-testing-projects)
+- [Automated Testing projects](#automated-testing-projects)
 - [SQL](#SQL)
 
  ## ⭐ Technical skills in basics:
