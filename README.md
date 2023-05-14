@@ -27,7 +27,7 @@
   - HTML & CSS
   - Scrum
 
-## Soft skills:
+## Soft skills
   - Attention to detail
   - Patience and perceptiveness
   - Strong communication skills
@@ -35,7 +35,7 @@
   - Ability to work effectively both independently and as part of a team
   - Analytical approach to problem-solving
 
-## Basic knowledge of tools:
+## Basic knowledge of tools
   - Chrome DevTools
   - Selenium WebDriver + Python
   - Robot Framework
@@ -48,7 +48,7 @@
   - Visual Studio Code
   - Slack, Discord
   
-## Finished courses:
+## Finished courses
   - ["Dare IT Portfolio Challenge: Zostań Testerem Manualnym"](https://www.dareit.io/) - Dare IT
   - ["Dare IT Challenge: Wstęp do Testów Automatycznych"](https://www.dareit.io/challenges/wstep-do-testow-automatycznych) - Dare IT
   - ["Praktyczny kurs testowania oprogramowania"](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) - Udemy
@@ -59,12 +59,12 @@
   - ["Postman Student Expert Program"](https://www.postman.com/company/student-program/) - postman.com
   - ["Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD"](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1/) - Udemy
   
-## Courses in progress:
+## Courses in progress
   - ["Postman: The Complete Guide - REST API Testing"](https://www.udemy.com/course/postman-the-complete-guide/) - Udemy
   - ["CS50's Introduction to Programming with Python"](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) - edX
 
 
-## My testing software knowledge recommendations:
+## My testing software knowledge recommendations
 ### Books:
   - "Certyfikowany tester ISTQB" - Adam Roman, Lucjan Stapp
   - "Zawód tester. Od decyzji do zdobycia doświadczenia" - Radosław Smilgin
@@ -87,7 +87,7 @@
   - [Testowanie Oprogramowania Podcast](https://www.youtube.com/@TestowaniePodcast)
   - [Postman](https://www.youtube.com/c/postman)
   
-## Manual Testing projects:
+## Manual Testing projects
 As part of the "Dare IT Portfolio Challenge: Zostań Testerem Manualnym" course, I manually tested the following applications:
 - Scouting Panel - an application for football scouts to view player metrics, skills, and positions,
 - Pick It Up - an application which allows users to order surprise-packages of surplus food from local venues in the area,
@@ -112,7 +112,7 @@ The documentation that was created as part of the testing process is below.
   
   📝 [Test report](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit) from testing the Panel Skautingowy web application
   
-   ## Automated Testing projects:
+   ## Automated Testing projects
 Automated tests were created for the Scouts Panel application as part of the "Dare IT Challenge: Wstęp do Testów Automatycznych" course.  The tests were written using Selenium WebDriver with Python and also in Robot Framework. As part of the testing process, I created documentation that includes test cases, bug reports, and a test report.
 
  ### You can find my projects here:
@@ -121,7 +121,7 @@ Automated tests were created for the Scouts Panel application as part of the "Da
 
 📕 [Robot Framework](https://github.com/MartaReb/panelscout_robotframework)
   
-  ## SQL:
+  ## SQL
   As part of my learning process, I have taken on the challenge of completing all of the tasks on the SQLZOO website. You can track my  current progress here:
   
   📝 [My solutions for exercises](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0) from [SQLZOO site](https://sqlzoo.net/wiki/SQL_Tutorial)
