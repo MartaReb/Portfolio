@@ -112,7 +112,7 @@ The documentation that was created as part of the testing process is below.
   
   📝 [Test report](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit) from testing the Panel Skautingowy web application
   
-  💻##Automated Testing projects:
+  💻 ## Automated Testing projects:
 Automated tests were created for the Scouts Panel application as part of the "Dare IT Challenge: Wstęp do Testów Automatycznych" course.  The tests were written using Selenium WebDriver with Python and also in Robot Framework. As part of the testing process, I created documentation that includes test cases, bug reports, and a test report.
 
  ### You can find my projects here:
