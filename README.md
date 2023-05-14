@@ -1,12 +1,12 @@
 # Portfolio
 
-## 👀 About me
+## About me 👀:
 
 <p>Hi, my name is Marta Rębecka  🙂 I am in the process of changing my career to become a software tester.</p>
 <p>I love learning new things, setting goals and achieving them. I am a person who constantly try to develop my testing knowlege and technical skills. In the future I would like to further my career in the field of automation testing.</p>
 <p>In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.</p>
 
-## 📚 Table of contents:
+## Table of contents 📚:
 - [Technical skills](#technical-skills-in-basics)
 - [Soft skills](#soft-skills)
 - [Tools](#basic-knowledge-of-tools)
@@ -17,7 +17,7 @@
 - [Automated Testing projects](#💻-automated-testing-projects)
 - [SQL](#SQL)
 
- ## ⭐ Technical skills in basics:
+ ## Technical skills in basics ⭐:
   - Manual software testing
   - Automated software testing
   - Creating test cases, tests scenarios, test plans, test reports
