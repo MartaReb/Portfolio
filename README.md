@@ -80,17 +80,23 @@
   - http://cherry-it.pl/
   - https://www.wyszkolewas.com.pl/
 
-### You Tube channels:
+### YouTube channels:
   - [TestITka](https://www.youtube.com/c/TestITka)
   - [ITea Morning](https://www.youtube.com/c/ITeaMorning)
   - [Testowanie Oprogramowania Podcast](https://www.youtube.com/@TestowaniePodcast)
   - [Postman](https://www.youtube.com/c/postman)
   
 ## Manual Testing
+As part of the "Dare IT Portfolio Challenge: Zostań Testerem Manualnym" course, I manually tested the following applications:
+- Scouting Panel - an application for football scouts to view player metrics, skills, and positions,
+- Pick It Up - an application which allows users to order surprise-packages of surplus food from local venues in the area,
+- Focusly - an application for meditation, development and stress reduction.
+The documentation that was created as part of the testing process is below.
+
 ### My testing documentation examples:
   - **Test cases:**
   
-  📝 [Tests cases](https://docs.google.com/spreadsheets/d/1kQpe2bKegMlHgqcILOORV9crnnq4-2NE26g2fCcijXo/edit#gid=0) based on User Stories for Polish version of the Panel Skautingowy web application write in Excel
+  📝 [Test cases](https://docs.google.com/spreadsheets/d/1kQpe2bKegMlHgqcILOORV9crnnq4-2NE26g2fCcijXo/edit#gid=0) based on User Stories for Polish version of the Panel Skautingowy web application write in Excel
   
   📝 [Test cases](https://docs.google.com/spreadsheets/d/1t5N5Hsym98lfeW9AT4NE5X66dmUQnUQZnWTCA7Ask_Q/edit?usp=sharing) based on "own experience" for the Polish version of the Pick Eat Up mobile application write in Azure DevOps
   
@@ -107,9 +113,9 @@
   ## Automated Testing:
 Automated tests were created for the Scouts Panel application as part of the "Dare IT Challenge: Wstęp do Testów Automatycznych" course.  The tests were written using Selenium WebDriver with Python and also in Robot Framework. As part of the testing process, I created documentation that includes test cases, bug reports, and a test report.
 
-You can find my projects here:
+ ### You can find my projects here:
 
-📕 [Selenium WebDriver with Python]
+📕 [Selenium WebDriver with Python](https://github.com/MartaReb/challenge_portfolio_marta)
 
 📕 [Robot Framework](https://github.com/MartaReb/panelscout_robotframework)
   
