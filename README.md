@@ -35,18 +35,21 @@
   - Analytical approach to problem-solving
 
 ## Basic knowledge of tools:
-  - [Chrome DevTools](https://developer.chrome.com/) - a set of web developer tools built directly into the Google Chrome browser.
-  - [Jira](https://www.atlassian.com/software/jira), [Trello](https://trello.com/), [Azzure DevOps](https://azure.microsoft.com/pl-pl/products/devops/) - issue tracking and project management tools for developers
-  - [Confluence](https://www.atlassian.com/pl/software/confluence) - a tool to create, store, and share information
-  - [TestLink](https://testlink.org/) - an open source test management tool
-  - [Git, GitHub](https://github.com/) - an open source version control system
-  - [Postman](https://www.postman.com/) - a testing tool for REST API
-  - [Visual Studio Code](https://code.visualstudio.com/) - a code editor
-  - [MySQL Workbench](https://www.mysql.com/products/workbench/) - a tool to data modeling and SQL development
-  - [Slack](https://slack.com/), [Discord](https://discord.com/) - a set of tools and services for team collaboration
+  - Chrome DevTools
+  - Selenium Webdrive + Python
+  - Robot Framework
+  - Postman
+  - MySQL Workbench
+  - Jira, Trello, Azzure DevOps
+  - Confluence
+  - TestLink
+  - Git, GitHub
+  - Visual Studio Code
+  - Slack, Discord
   
 ## Finished courses:
   - ["Dare IT Portfolio Challenge: Zostań Testerem Manualnym"](https://www.dareit.io/) - Dare IT
+  - ["Dare IT Challenge: Wstęp do Testów Automatycznych'](https://www.dareit.io/challenges/wstep-do-testow-automatycznych) - Dare IT
   - ["Praktyczny kurs testowania oprogramowania"](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) - Udemy
   - ["Wprowadzenie do Git i GitHub"](https://www.udemy.com/course/kurs-git-i-github-od-podstaw/) - Udemy
   - ["Jira Fundamentals"](https://university.atlassian.com/student/path/815443-jira-fundamentals?sid_i=0) - Atlassian University
@@ -57,7 +60,7 @@
   
 ## Courses in progress:
   - ["Postman: The Complete Guide - REST API Testing"](https://www.udemy.com/course/postman-the-complete-guide/) - Udemy
-  - ["JavaScript - Jedyny Kurs, Którego Potrzebujesz"](https://www.udemy.com/course/javascript-jedyny-kurs-ktorego-potrzebujesz/) - Udemy
+  - ["CS50's Introduction to Programming with Python"](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) - edX
 
 
 ## My testing software knowledge recommendations:
