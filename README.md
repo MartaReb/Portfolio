@@ -15,7 +15,7 @@
 - [My testing software knowledge recommendations](#my-testing-software-knowledge-recommendations)
 - [Manual Testing projects](#manual-Testing)
 - [Automated Testing projects](#automated-testing)
-- [SQL](#💡-SQL)
+- [SQL](#SQL)
 
  ## ⭐ Technical skills in basics:
   - Manual software testing
@@ -121,7 +121,7 @@ Automated tests were created for the Scouts Panel application as part of the "Da
 
 📕 [Robot Framework](https://github.com/MartaReb/panelscout_robotframework)
   
-  ## 💡 SQL:
+  ## SQL:
   As part of my learning process, I have taken on the challenge of completing all of the tasks on the SQLZOO website. You can track my  current progress here:
   
   📝 [My solutions for exercises](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0) from [SQLZOO site](https://sqlzoo.net/wiki/SQL_Tutorial)
