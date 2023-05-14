@@ -15,7 +15,7 @@
 - [My testing software knowledge recommendations](#my-testing-software-knowledge-recommendations)
 - [Manual Testing projects](#manual-Testing)
 - [Automated Testing projects](#automated-testing)
-- [SQL](#SQL)
+- [SQL](#💡-SQL)
 
  ## ⭐ Technical skills in basics:
   - Manual software testing
