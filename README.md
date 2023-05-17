@@ -89,9 +89,9 @@
   
 ## Manual Testing projects
 As part of the "Dare IT Portfolio Challenge: Zostań Testerem Manualnym" course, I manually tested the following applications:
-- Scouting Panel - an application for football scouts to view player metrics, skills, and positions,
-- Pick It Up - an application which allows users to order surprise-packages of surplus food from local venues in the area,
-- Focusly - an application for meditation, development and stress reduction.
+- [Panel Skautingowy](https://scouts.futbolkolektyw.pl/en/login?redirected=true) - an application for football scouts to view player metrics, skills, and positions,
+- [Pick Eat Up](https://pickeatup.io/) - an application which allows users to order surprise-packages of surplus food from local venues in the area,
+- [Focusly](https://focusly.co/) - an application for meditation, development and stress reduction.
 
 The documentation that was created as part of the testing process is below.
 
