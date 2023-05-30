@@ -14,8 +14,8 @@
 - [Courses in progress](#courses-in-progress)
 - [My testing software knowledge recommendations](#my-testing-software-knowledge-recommendations)
 - [Manual Testing projects](#manual-testing-projects)
-- [Automated Testing projects](#💻-automated-testing-projects)
-- [REST API Testing project]
+- [Automated Testing projects](#automated-testing-projects)
+- [REST API Testing project](#REST-API-Testing-project)
 - [SQL](#SQL)
 
  ## Technical skills in basics
@@ -88,6 +88,7 @@
   - [Testowanie Oprogramowania Podcast](https://www.youtube.com/@TestowaniePodcast)
   - [Postman](https://www.youtube.com/c/postman)
   
+  
 ## Manual Testing projects
 As part of the "Dare IT Portfolio Challenge: Zostań Testerem Manualnym" course, I manually tested the following applications:
 - [Panel Skautingowy](https://scouts.futbolkolektyw.pl/en/login?redirected=true) - an application for football scouts to view player metrics, skills, and positions,
@@ -113,6 +114,7 @@ The documentation that was created as part of the testing process is below.
   
   📝 [Test report](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit) from testing the Panel Skautingowy web application
   
+  
    ## Automated Testing projects
 Automated tests were created for the Scouts Panel application as part of the "Dare IT Challenge: Wstęp do Testów Automatycznych" course.  The tests were written using Selenium WebDriver with Python and also in Robot Framework. As part of the testing process, I created documentation that includes the test cases, the bug reports and the test report.
 
@@ -122,11 +124,13 @@ Automated tests were created for the Scouts Panel application as part of the "Da
 
 📕 [Robot Framework](https://github.com/MartaReb/panelscout_robotframework)
   
+
   ## REST API Testing project
-It is a project on which I am currently working on. I have written some API tests for [Restful-booker](https://restful-booker.herokuapp.com/), which is an API based on hotel bookings:
+It is a project on which I am currently working. I have written some API tests for [Restful-booker]((https://restful-booker.herokuapp.com/), which is an API based on hotel bookings:
 
 📘 [REST API Testing](https://github.com/MartaReb/restful-booker-API-testing)
- 
+
+
   ## SQL
  As part of my learning process, I have taken on the challenge of completing all of the tasks on the [SQLZOO website](https://sqlzoo.net/wiki/SQL_Tutorial). You can track my current progress here:
   
