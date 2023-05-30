@@ -15,6 +15,7 @@
 - [My testing software knowledge recommendations](#my-testing-software-knowledge-recommendations)
 - [Manual Testing projects](#manual-testing-projects)
 - [Automated Testing projects](#💻-automated-testing-projects)
+- [REST API Testing project]
 - [SQL](#SQL)
 
  ## Technical skills in basics
@@ -56,11 +57,11 @@
   - ["Jira Fundamentals"](https://university.atlassian.com/student/path/815443-jira-fundamentals?sid_i=0) - Atlassian University
   - ["Beginner's Guide to Agile in Jira"](https://university.atlassian.com/student/page/1117976-the-beginner-s-guide-to-agile-in-jira-course-description?sid_i=8) - Atlassian University
   - ["Confluence Fundamentals"](https://enable.atlassian.com/student/path/861302-confluence-fundamentals) - Atlassian University
+  - ["Postman: The Complete Guide - REST API Testing"](https://www.udemy.com/course/postman-the-complete-guide/) - Udemy
   - ["Postman Student Expert Program"](https://www.postman.com/company/student-program/) - postman.com
   - ["Kurs Tworzenia Stron WWW cz. I - HTML, CSS, RWD"](https://www.udemy.com/course/od-zera-do-front-end-developera-cz1/) - Udemy
   
 ## Courses in progress
-  - ["Postman: The Complete Guide - REST API Testing"](https://www.udemy.com/course/postman-the-complete-guide/) - Udemy
   - ["CS50's Introduction to Programming with Python"](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) - edX
 
 
@@ -121,7 +122,12 @@ Automated tests were created for the Scouts Panel application as part of the "Da
 
 📕 [Robot Framework](https://github.com/MartaReb/panelscout_robotframework)
   
+  ## REST API Testing project
+ 
+ 
   ## SQL
-  As part of my learning process, I have taken on the challenge of completing all of the tasks on the SQLZOO website. You can track my  current progress here:
+ As part of my learning process, I have taken on the challenge of completing all of the tasks on the [SQLZOO website](https://sqlzoo.net/wiki/SQL_Tutorial). You can track my current progress here:
   
-  📝 [My solutions for exercises](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0) from [SQLZOO site](https://sqlzoo.net/wiki/SQL_Tutorial)
+  📝 [SELECT basics + SELECT from world](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0)
+  📝 [SELECT from Nobel](https://docs.google.com/spreadsheets/d/1_OOVfSmUhnqGV3mQutdfRMcZP3KZn8prZ0c1j4-xdmE/edit#gid=0)
+  📝 [The JOIN operation](https://docs.google.com/spreadsheets/d/1hWXOQlG35lugONkZJ8cXcc6DBPXsWtAj-iXeAdyCzHM/edit#gid=0)
