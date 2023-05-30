@@ -126,7 +126,7 @@ Automated tests were created for the Scouts Panel application as part of the "Da
   
 
   ## REST API Testing project
-It is a project on which I am currently working. I have written some API tests for [Restful-booker]((https://restful-booker.herokuapp.com/), which is an API based on hotel bookings:
+It is a project on which I am currently working. I have written some API tests for [Restful-booker](https://restful-booker.herokuapp.com/), which is an API based on hotel bookings:
 
 📘 [REST API Testing](https://github.com/MartaReb/restful-booker-API-testing)
 
