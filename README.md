@@ -134,9 +134,9 @@ It is a project on which I am currently working. I have written some API tests f
   ## SQL
  As part of my learning process, I have taken on the challenge of completing all of the tasks on the [SQLZOO website](https://sqlzoo.net/wiki/SQL_Tutorial). You can track my current progress here:
   
-  📝 [SELECT basics + SELECT from World](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0)
+  📝 [SELECT basics + SELECT names](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0)
   
-  📝 [SELECT from Nobel](https://docs.google.com/spreadsheets/d/1_OOVfSmUhnqGV3mQutdfRMcZP3KZn8prZ0c1j4-xdmE/edit#gid=0)
+  📝 [SELECT from World + SELECT from Nobel](https://docs.google.com/spreadsheets/d/1_OOVfSmUhnqGV3mQutdfRMcZP3KZn8prZ0c1j4-xdmE/edit#gid=0)
   
   📝 [The JOIN operation](https://docs.google.com/spreadsheets/d/1hWXOQlG35lugONkZJ8cXcc6DBPXsWtAj-iXeAdyCzHM/edit#gid=0)
   
