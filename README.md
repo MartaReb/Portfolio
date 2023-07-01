@@ -13,11 +13,11 @@
 - [Tools](#basic-knowledge-of-tools)
 - [Finished courses](#finished-courses)
 - [Courses in progress](#courses-in-progress)
-- [My testing software knowledge recommendations](#my-testing-software-knowledge-recommendations)
 - [Manual Testing projects](#manual-testing-projects)
 - [Automated Testing projects](#automated-testing-projects)
 - [REST API Testing project](#REST-API-Testing-project)
 - [SQL](#SQL)
+- [My testing software knowledge recommendations](#my-testing-software-knowledge-recommendations)
 
  ## Technical skills in basics
   - Manual software testing
@@ -65,31 +65,6 @@
 ## Courses in progress
   - ["CS50's Introduction to Programming with Python"](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) - edX
 
-
-## My testing software knowledge recommendations
-### Books:
-  - "Certyfikowany tester ISTQB" - Adam Roman, Lucjan Stapp
-  - "Zawód tester. Od decyzji do zdobycia doświadczenia" - Radosław Smilgin
-  - "Pasja testowania" - Krzysztof Jadczyk
-  - "Podróż przez świat testowania" - Karolina Pawłowska, Natalia Pawlak
-  
-### Groups on Facebook:
-  - "Testowanie oprogramowania"
-  - "Tester oprogramowania - wsparcie na starcie"
-  - "Girls Who Tests"
-
-### Blogs:
-  - https://testerzy.pl/
-  - http://cherry-it.pl/
-  - https://www.wyszkolewas.com.pl/
-
-### YouTube channels:
-  - [TestITka](https://www.youtube.com/c/TestITka)
-  - [ITea Morning](https://www.youtube.com/c/ITeaMorning)
-  - [Testowanie Oprogramowania Podcast](https://www.youtube.com/@TestowaniePodcast)
-  - [Postman](https://www.youtube.com/c/postman)
-  
-  
 ## Manual Testing projects
 As part of the "Dare IT Portfolio Challenge: Zostań Testerem Manualnym" course, I manually tested the following applications:
 - [Panel Skautingowy](https://scouts.futbolkolektyw.pl/en/login?redirected=true) - an application for football scouts to view player metrics, skills, and positions,
@@ -115,9 +90,8 @@ The documentation that was created as part of the testing process is below.
   
   📝 [Test report](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit) from testing the Panel Skautingowy web application
   
-  
-   ## Automated Testing projects
-Automated tests were created for the Scouts Panel application as part of the "Dare IT Challenge: Wstęp do Testów Automatycznych" course.  The tests were written using Selenium WebDriver with Python and also in Robot Framework. As part of the testing process, I created documentation that includes the test cases, the bug reports and the test report.
+## Automated Testing projects
+Automated tests were created for the Scouts Panel application as part of the "Dare IT Challenge: Wstęp do Testów Automatycznych" course. The tests were written using Selenium WebDriver with Python and also in Robot Framework. As part of the testing process, I created documentation that includes the test cases, the bug reports and the test report.
 
  ### You can find my projects here:
 
@@ -138,6 +112,28 @@ It is a project on which I am currently working. I have written some API tests f
   📝 [SELECT basics + SELECT names](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0)
   
   📝 [SELECT from World + SELECT from Nobel](https://docs.google.com/spreadsheets/d/1_OOVfSmUhnqGV3mQutdfRMcZP3KZn8prZ0c1j4-xdmE/edit#gid=0)
+
+## My testing software knowledge recommendations
+### Books:
+  - "Certyfikowany tester ISTQB" - Adam Roman, Lucjan Stapp
+  - "Zawód tester. Od decyzji do zdobycia doświadczenia" - Radosław Smilgin
+  - "Pasja testowania" - Krzysztof Jadczyk
+  - "Podróż przez świat testowania" - Karolina Pawłowska, Natalia Pawlak
   
+### Groups on Facebook:
+  - "Testowanie oprogramowania"
+  - "Tester oprogramowania - wsparcie na starcie"
+  - "Girls Who Tests"
+
+### Blogs:
+  - https://testerzy.pl/
+  - http://cherry-it.pl/
+  - https://www.wyszkolewas.com.pl/
+
+### YouTube channels:
+  - [TestITka](https://www.youtube.com/c/TestITka)
+  - [ITea Morning](https://www.youtube.com/c/ITeaMorning)
+  - [Testowanie Oprogramowania Podcast](https://www.youtube.com/@TestowaniePodcast)
+  - [Postman](https://www.youtube.com/c/postman)
   📝 [The JOIN operation](https://docs.google.com/spreadsheets/d/1hWXOQlG35lugONkZJ8cXcc6DBPXsWtAj-iXeAdyCzHM/edit#gid=0)
   
