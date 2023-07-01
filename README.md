@@ -2,7 +2,7 @@
 
 ## About me
 
-<p>Hi, my name is Marta Rębecka  🙂 I am in the process of changing my career to become a software tester.</p>
+<p>Hi, my name is Marta 🙂 I am in the process of changing my career to become a software tester.</p>
 <p>In my previous job, I worked as a technical inspector for aviation parts at an aircraft maintenance company. My responsibilities included conducting entry inspections of the parts and verifying the accuracy of their documentation. Additionally, I was responsible for filing complaints and reporting any anomalies discovered to the internal system.<p>
 <p>I have a strong enthusiasm for learning new things and enjoy setting and achieving goals. Continuously developing my testing knowledge and technical skills is a priority for me. In the future, I aspire to advance my career in the field of automation testing.</p>
 <p>In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.</p>
@@ -112,6 +112,7 @@ It is a project on which I am currently working. I have written some API tests f
   📝 [SELECT basics + SELECT names](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0)
   
   📝 [SELECT from World + SELECT from Nobel](https://docs.google.com/spreadsheets/d/1_OOVfSmUhnqGV3mQutdfRMcZP3KZn8prZ0c1j4-xdmE/edit#gid=0)
+  📝 [The JOIN operation](https://docs.google.com/spreadsheets/d/1hWXOQlG35lugONkZJ8cXcc6DBPXsWtAj-iXeAdyCzHM/edit#gid=0)
 
 ## My testing software knowledge recommendations
 ### Books:
@@ -135,5 +136,4 @@ It is a project on which I am currently working. I have written some API tests f
   - [ITea Morning](https://www.youtube.com/c/ITeaMorning)
   - [Testowanie Oprogramowania Podcast](https://www.youtube.com/@TestowaniePodcast)
   - [Postman](https://www.youtube.com/c/postman)
-  📝 [The JOIN operation](https://docs.google.com/spreadsheets/d/1hWXOQlG35lugONkZJ8cXcc6DBPXsWtAj-iXeAdyCzHM/edit#gid=0)
-  
+
