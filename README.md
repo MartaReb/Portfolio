@@ -13,11 +13,12 @@
 - [Tools](#basic-knowledge-of-tools)
 - [Finished courses](#finished-courses)
 - [Courses in progress](#courses-in-progress)
-- [Manual Testing projects](#manual-testing-projects)
-- [Automated Testing projects](#automated-testing-projects)
-- [REST API Testing project](#REST-API-Testing-project)
+- [Manual testing projects](#manual-testing-projects)
+- [Automated testing projects](#automated-testing-projects)
+- [REST API testing project](#REST-API-Testing-project)
+- [Other projects]
 - [SQL](#SQL)
-- [My testing software knowledge recommendations](#my-testing-software-knowledge-recommendations)
+  
 
  ## Technical skills in basics
   - Manual software testing
@@ -105,35 +106,21 @@ It is a project on which I am currently working. I have written some API tests f
 
 📘 [REST API Testing](https://github.com/MartaReb/restful-booker-testing)
 
-
-  ## SQL
+ ## Other projects
+ 
+  ### SQL
  As part of my learning process, I have taken on the challenge of completing all of the tasks on the [SQLZOO website](https://sqlzoo.net/wiki/SQL_Tutorial). You can track my current progress here:
   
   📝 [SELECT basics + SELECT names](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0)
   
   📝 [SELECT from World + SELECT from Nobel](https://docs.google.com/spreadsheets/d/1_OOVfSmUhnqGV3mQutdfRMcZP3KZn8prZ0c1j4-xdmE/edit#gid=0)
+  
   📝 [The JOIN operation](https://docs.google.com/spreadsheets/d/1hWXOQlG35lugONkZJ8cXcc6DBPXsWtAj-iXeAdyCzHM/edit#gid=0)
 
-## My testing software knowledge recommendations
-### Books:
-  - "Certyfikowany tester ISTQB" - Adam Roman, Lucjan Stapp
-  - "Zawód tester. Od decyzji do zdobycia doświadczenia" - Radosław Smilgin
-  - "Pasja testowania" - Krzysztof Jadczyk
-  - "Podróż przez świat testowania" - Karolina Pawłowska, Natalia Pawlak
-  
-### Groups on Facebook:
-  - "Testowanie oprogramowania"
-  - "Tester oprogramowania - wsparcie na starcie"
-  - "Girls Who Tests"
+### Python
+To learn Python, I am working on tasks from [Harvard University's CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) course. I am posting the solutions to the tasks here:
 
-### Blogs:
-  - https://testerzy.pl/
-  - http://cherry-it.pl/
-  - https://www.wyszkolewas.com.pl/
+ 💻 [CS50P](https://github.com/MartaReb/CS50P)
 
-### YouTube channels:
-  - [TestITka](https://www.youtube.com/c/TestITka)
-  - [ITea Morning](https://www.youtube.com/c/ITeaMorning)
-  - [Testowanie Oprogramowania Podcast](https://www.youtube.com/@TestowaniePodcast)
-  - [Postman](https://www.youtube.com/c/postman)
+
 
