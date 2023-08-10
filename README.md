@@ -16,8 +16,7 @@
 - [Manual testing projects](#manual-testing-projects)
 - [Automated testing projects](#automated-testing-projects)
 - [REST API testing project](#REST-API-Testing-project)
-- [Other projects]
-- [SQL](#SQL)
+- [Other projects](#Other-projects)
   
 
  ## Technical skills in basics
