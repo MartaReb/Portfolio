@@ -97,6 +97,15 @@ Automated tests were created for the Scouts Panel application as part of the "Da
 
 📕 [Selenium WebDriver with Python](https://github.com/MartaReb/challenge_portfolio_marta)
 
+ The documentation I created for this project:
+  
+[Sample test cases for the Scouts Panel application:](https://docs.google.com/spreadsheets/d/1M61LP4jmVPXJPkLhAGm3Ap_cufrFDYdIiIHo-g25NOI/edit#gid=0)
+
+[Bugs found by automated tests](https://docs.google.com/spreadsheets/d/1nC0_WXUhKgu-T4y3OaqL0u1jzyrGmKAO0GEPoPvXQkw/edit#gid=0)
+
+[Report from conducted automated tests](https://docs.google.com/document/d/1WgoSn8IIT5IQyRMi-dL7GQSK4DAr2coVu_QfeKt29HI/edit)
+
+
 📕 [Robot Framework](https://github.com/MartaReb/panelscout_robotframework)
   
 
