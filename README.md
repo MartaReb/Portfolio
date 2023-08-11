@@ -93,21 +93,24 @@ The documentation that was created as part of the testing process is below.
 ## Automated Testing projects
 Automated tests were created for the Scouts Panel application as part of the "Dare IT Challenge: Wstęp do Testów Automatycznych" course. The tests were written using Selenium WebDriver with Python and also in Robot Framework. As part of the testing process, I created documentation that includes the test cases, the bug reports and the test report.
 
- #### You can find my projects here:
+ ### You can find my projects here:
+ 
+📕 [Robot Framework](https://github.com/MartaReb/panelscout_robotframework)
 
 📕 [Selenium WebDriver with Python](https://github.com/MartaReb/challenge_portfolio_marta)
 
- #### The documentation I created for this project:
+ ### The documentation I created for this project:
+ - **Test cases:**
   
 📝 [Sample test cases for the Scouts Panel application:](https://docs.google.com/spreadsheets/d/1M61LP4jmVPXJPkLhAGm3Ap_cufrFDYdIiIHo-g25NOI/edit#gid=0)
 
+- **Bug reports:**
+
 📝 [Bugs found by automated tests](https://docs.google.com/spreadsheets/d/1nC0_WXUhKgu-T4y3OaqL0u1jzyrGmKAO0GEPoPvXQkw/edit#gid=0)
 
+- **Test report:**
+
 📝 [Report from conducted automated tests](https://docs.google.com/document/d/1WgoSn8IIT5IQyRMi-dL7GQSK4DAr2coVu_QfeKt29HI/edit)
-
-
-📕 [Robot Framework](https://github.com/MartaReb/panelscout_robotframework)
-  
 
   ## REST API Testing project
 It is a project on which I am currently working. I have written some API tests for [Restful-booker](https://restful-booker.herokuapp.com/), which is an API based on hotel bookings:
