@@ -65,7 +65,7 @@
 ## Courses in progress
   - ["CS50's Introduction to Programming with Python"](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) - edX
 
-## Manual Testing projects
+## Manual testing projects
 As part of the "Dare IT Portfolio Challenge: Zostań Testerem Manualnym" course, I manually tested the following applications:
 - [Panel Skautingowy](https://scouts.futbolkolektyw.pl/en/login?redirected=true) - an application for football scouts to view player metrics, skills, and positions,
 - [Pick Eat Up](https://pickeatup.io/) - an application which allows users to order surprise-packages of surplus food from local venues in the area,
@@ -90,7 +90,7 @@ The documentation that was created as part of the testing process is below.
   
   📝 [Test report](https://docs.google.com/document/d/1wrpqrm4KpSA6VnfO76IjKV2oV1rtMyuoXY-cv7zrdgk/edit) from testing the Panel Skautingowy web application
   
-## Automated Testing projects
+## Automated testing projects
 Automated tests were created for the Scouts Panel application as part of the "Dare IT Challenge: Wstęp do Testów Automatycznych" course. The tests were written using Selenium WebDriver with Python and also in Robot Framework. As part of the testing process, I created documentation that includes the test cases, the bug reports and the test report.
 
  ### You can find my projects here:
@@ -112,7 +112,7 @@ Automated tests were created for the Scouts Panel application as part of the "Da
 
 📝 [Report from conducted automated tests](https://docs.google.com/document/d/1WgoSn8IIT5IQyRMi-dL7GQSK4DAr2coVu_QfeKt29HI/edit)
 
-  ## REST API Testing project
+  ## REST API testing project
 It is a project on which I am currently working. I have written some API tests for [Restful-booker](https://restful-booker.herokuapp.com/), which is an API based on hotel bookings:
 
 📘 [REST API Testing](https://github.com/MartaReb/restful-booker-testing)
@@ -126,7 +126,7 @@ It is a project on which I am currently working. I have written some API tests f
   
   📝 [SELECT from World + SELECT from Nobel](https://docs.google.com/spreadsheets/d/1_OOVfSmUhnqGV3mQutdfRMcZP3KZn8prZ0c1j4-xdmE/edit#gid=0)
   
-  📝 [The JOIN operation](https://docs.google.com/spreadsheets/d/1hWXOQlG35lugONkZJ8cXcc6DBPXsWtAj-iXeAdyCzHM/edit#gid=0)
+  📝 [The JOIN operation + More JOIN operations](https://docs.google.com/spreadsheets/d/1hWXOQlG35lugONkZJ8cXcc6DBPXsWtAj-iXeAdyCzHM/edit#gid=0)
 
 ### Python
 To learn Python, I am working on tasks from [Harvard University's CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) course. I am posting the solutions to the tasks here:
