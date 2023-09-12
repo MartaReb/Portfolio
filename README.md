@@ -66,14 +66,14 @@
   - ["CS50's Introduction to Programming with Python"](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) - edX
 
 ## Manual testing projects
-###### As part of the "Dare IT Portfolio Challenge: Zostań Testerem Manualnym" course, I manually tested the following applications:
-###### - [Panel Skautingowy](https://scouts.futbolkolektyw.pl/en/login?redirected=true) - an application for football scouts to view player metrics, skills, and positions,
-###### - [Pick Eat Up](https://pickeatup.io/) - an application which allows users to order surprise-packages of surplus food from local venues in the area,
-###### - [Focusly](https://focusly.co/) - an application for meditation, development and stress reduction.
+ As part of the "Dare IT Portfolio Challenge: Zostań Testerem Manualnym" course, I manually tested the following applications:
+ - [Panel Skautingowy](https://scouts.futbolkolektyw.pl/en/login?redirected=true) - an application for football scouts to view player metrics, skills, and positions,
+ - [Pick Eat Up](https://pickeatup.io/) - an application which allows users to order surprise-packages of surplus food from local venues in the area,
+ - [Focusly](https://focusly.co/) - an application for meditation, development and stress reduction.
 
-###### The documentation that was created as part of the testing process is below.
+ The documentation that was created as part of the testing process is below.
 
-### My testing documentation examples:
+#### My testing documentation examples:
   - **Test cases:**
   
   📝 [Test cases](https://docs.google.com/spreadsheets/d/1kQpe2bKegMlHgqcILOORV9crnnq4-2NE26g2fCcijXo/edit#gid=0) based on User Stories for Polish version of the Panel Skautingowy web application write in Excel
@@ -93,13 +93,13 @@
 ## Automated testing projects
 Automated tests were created for the Scouts Panel application as part of the "Dare IT Challenge: Wstęp do Testów Automatycznych" course. The tests were written using Selenium WebDriver with Python and also in Robot Framework. As part of the testing process, I created documentation that includes the test cases, the bug reports and the test report.
 
- ### You can find my projects here:
+ #### You can find my projects here:
  
 📕 [Robot Framework](https://github.com/MartaReb/panelscout_robotframework)
 
 📕 [Selenium WebDriver with Python](https://github.com/MartaReb/challenge_portfolio_marta)
 
- ### The documentation I created for this project:
+ #### The documentation I created for the Scouts Panel application durnig course:
  - **Test cases:**
   
 📝 [Sample test cases for the Scouts Panel application:](https://docs.google.com/spreadsheets/d/1M61LP4jmVPXJPkLhAGm3Ap_cufrFDYdIiIHo-g25NOI/edit#gid=0)
@@ -113,7 +113,7 @@ Automated tests were created for the Scouts Panel application as part of the "Da
 📝 [Report from conducted automated tests](https://docs.google.com/document/d/1WgoSn8IIT5IQyRMi-dL7GQSK4DAr2coVu_QfeKt29HI/edit)
 
   ## REST API testing project
-It is a project on which I am currently working. I have written some API tests for [Restful-booker](https://restful-booker.herokuapp.com/), which is an API based on hotel bookings:
+It is a project on which I am currently working. I have written in Postman some API tests for [Restful-booker](https://restful-booker.herokuapp.com/), which is an API based on hotel bookings:
 
 📘 [REST API Testing](https://github.com/MartaReb/restful-booker-testing)
 
