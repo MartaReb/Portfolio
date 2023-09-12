@@ -66,12 +66,12 @@
   - ["CS50's Introduction to Programming with Python"](https://www.edx.org/course/cs50s-introduction-to-programming-with-python) - edX
 
 ## Manual testing projects
-As part of the "Dare IT Portfolio Challenge: Zostań Testerem Manualnym" course, I manually tested the following applications:
-- [Panel Skautingowy](https://scouts.futbolkolektyw.pl/en/login?redirected=true) - an application for football scouts to view player metrics, skills, and positions,
-- [Pick Eat Up](https://pickeatup.io/) - an application which allows users to order surprise-packages of surplus food from local venues in the area,
-- [Focusly](https://focusly.co/) - an application for meditation, development and stress reduction.
+###### As part of the "Dare IT Portfolio Challenge: Zostań Testerem Manualnym" course, I manually tested the following applications:
+###### - [Panel Skautingowy](https://scouts.futbolkolektyw.pl/en/login?redirected=true) - an application for football scouts to view player metrics, skills, and positions,
+###### - [Pick Eat Up](https://pickeatup.io/) - an application which allows users to order surprise-packages of surplus food from local venues in the area,
+###### - [Focusly](https://focusly.co/) - an application for meditation, development and stress reduction.
 
-The documentation that was created as part of the testing process is below.
+###### The documentation that was created as part of the testing process is below.
 
 ### My testing documentation examples:
   - **Test cases:**
@@ -129,7 +129,7 @@ It is a project on which I am currently working. I have written some API tests f
   📝 [The JOIN operation + More JOIN operations](https://docs.google.com/spreadsheets/d/1hWXOQlG35lugONkZJ8cXcc6DBPXsWtAj-iXeAdyCzHM/edit#gid=0)
 
 ### Python
-To learn Python, I am working on tasks from [Harvard University's CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) course. I am posting the solutions to the tasks here:
+To learn Python, I am working on tasks from Harvard University's [CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) course. I am posting the solutions to the tasks here:
 
  💻 [CS50P](https://github.com/MartaReb/CS50P)
 
