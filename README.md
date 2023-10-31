@@ -120,8 +120,8 @@ It is a project on which I am currently working. I have written in Postman some 
 
 📘 [REST API Testing](https://github.com/MartaReb/restful-booker-testing)
 
-- **Test report:** :
-- 
+- **Test report:**
+  
 📝 [Report from conducted API tests](https://martareb.github.io/restful-booker-api-testing/Restful-booker.html) with Newman
 
  ## Other projects
