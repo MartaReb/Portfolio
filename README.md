@@ -2,10 +2,13 @@
 
 ## About me
 
-###### <p>Hi, my name is Marta 🙂 I am in the process of changing my career to become a software tester.</p>
-###### <p>In my previous job, I worked as a technical inspector for aviation parts at an aircraft maintenance company. My responsibilities included conducting entry inspections of the parts and verifying the accuracy of their documentation. Additionally, I was responsible for filing complaints and reporting any anomalies discovered to the internal system.<p>
-###### <p>I have a strong enthusiasm for learning new things and enjoy setting and achieving goals. Continuously developing my testing knowledge and technical skills is a priority for me. In the future, I aspire to advance my career in the field of automation testing.</p>
-###### <p>In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.</p>
+###### Hi, my name is Marta 🙂 I am in the process of changing my career to become a software tester.
+
+###### In my previous job, I worked as a technical inspector for aviation parts at an aircraft maintenance company. My responsibilities included conducting entry inspections of the parts and verifying the accuracy of their documentation. Additionally, I was responsible for filing complaints and reporting any anomalies discovered to the internal system.
+
+###### I have a strong enthusiasm for learning new things and enjoy setting and achieving goals. Continuously developing my testing knowledge and technical skills is a priority for me. In the future, I aspire to advance my career in the field of automation testing.
+
+###### In my portfolio I would like to showcase my abilities and credentials, things I have learned, tools that I use and sources of my current knowledge.
 
 ## Table of contents
 - [Technical skills](#technical-skills-in-basics)
