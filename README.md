@@ -133,7 +133,7 @@ It is a project on which I am currently working. I have written in Postman some 
   
   📝 [SELECT from World + SELECT from Nobel](https://docs.google.com/spreadsheets/d/1_OOVfSmUhnqGV3mQutdfRMcZP3KZn8prZ0c1j4-xdmE/edit#gid=0)
 
-  📝 [SELECT within SELECT](https://docs.google.com/spreadsheets/d/1CfKD_xNSec0AY2UyBJlX3gSObhEf_-VxEwT5B-aL7-I/edit#gid=0)
+  📝 [SELECT within SELECT + SUM and COUNT](https://docs.google.com/spreadsheets/d/1CfKD_xNSec0AY2UyBJlX3gSObhEf_-VxEwT5B-aL7-I/edit#gid=0)
   
   📝 [The JOIN operation + More JOIN operations](https://docs.google.com/spreadsheets/d/1hWXOQlG35lugONkZJ8cXcc6DBPXsWtAj-iXeAdyCzHM/edit#gid=0)
 
