@@ -127,7 +127,7 @@ It is a project on which I am currently working. I have written in Postman some 
  ## Other projects
  
   ### SQL
- As part of my learning process, I have taken on the challenge of completing all of the tasks on the [SQLZOO website](https://sqlzoo.net/wiki/SQL_Tutorial). You can track my current progress here:
+ As part of my learning process, I took on the challenge of completing all tasks on the [SQLZOO website](https://sqlzoo.net/wiki/SQL_Tutorial). These are solutions to all of the main 10 and 1 additional topics posted on the sqlzoo.net tutorial:
   
   📝 [SELECT basics + SELECT names](https://docs.google.com/spreadsheets/d/14ErK9BRq6LU8IIEOZDQ6vLIO84F4ET5BzTAatRvrisU/edit#gid=0)
   
@@ -137,7 +137,9 @@ It is a project on which I am currently working. I have written in Postman some 
   
   📝 [The JOIN operation + More JOIN operations](https://docs.google.com/spreadsheets/d/1hWXOQlG35lugONkZJ8cXcc6DBPXsWtAj-iXeAdyCzHM/edit#gid=0)
 
-  📝 [Using Null + NSS Tutorial](https://docs.google.com/spreadsheets/d/1pJPFOQFH4OZtoWEDOU0j4u-qgvoacn3O8rHOOn80gdA/edit#gid=0)
+  📝 [Using Null + Self join](https://docs.google.com/spreadsheets/d/1pJPFOQFH4OZtoWEDOU0j4u-qgvoacn3O8rHOOn80gdA/edit#gid=0)
+
+  📝 [NSS Tutorial](https://docs.google.com/spreadsheets/d/1-8FWG37XdkIwI-ANnWpfWdDX0rfblPAzV55EqDbShDo/edit#gid=0)
 
 ### Python
 To learn Python, I am working on tasks from Harvard University's [CS50P: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) course. I am posting the solutions to the tasks here:
